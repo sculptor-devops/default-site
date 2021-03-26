@@ -1,0 +1,11 @@
+{
+    "name": "sculptor-devops/default-site",
+    "description": "Sculptor Devops default site",
+    "authors": [
+        {
+            "name": "Alessandro Cappellozza",
+            "email": "alessandro.cappellozza@gmail.com"
+        }
+    ],
+    "require": {}
+}
